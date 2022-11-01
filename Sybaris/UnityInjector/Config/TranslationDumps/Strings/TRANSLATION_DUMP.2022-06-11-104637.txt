@@ -1,0 +1,4 @@
+[Strings][LEVEL 13] がショップに追加されました。
+[Strings][LEVEL 13] 『□□□□■□□□□◆□□□□■□□□□◆□』
+[Strings][LEVEL 13] を取得しました。
+[Strings][LEVEL 15] トレーニング・お料理教室

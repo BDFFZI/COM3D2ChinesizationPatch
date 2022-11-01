@@ -1,0 +1,1037 @@
+[Strings][LEVEL 13] がショップに追加されました。
+[Strings][LEVEL 13] 『□□□□■□□□□◆□□□□■□□□□◆□』
+[Strings][LEVEL 13] を取得しました。
+[Strings][LEVEL 15] トレーニング・お料理教室
+[Strings][LEVEL 9] 2022.03.19 17:40
+[Strings][LEVEL 9] 10
+[Strings][LEVEL 9] 陸
+[Strings][LEVEL 9] 5
+[Strings][LEVEL 9] 2022.01.07 00:45
+[Strings][LEVEL 9] 4
+[Strings][LEVEL 9] 3
+[Strings][LEVEL 9] 日
+[Strings][LEVEL 9] 人
+[Strings][LEVEL 9] 2022.03.19 5：40。
+[Strings][LEVEL 9] 3.
+[Strings][LEVEL 3] 7777
+[Strings][LEVEL 3] CR
+[Strings][LEVEL 3] 7890
+[Strings][LEVEL 3] 999
+[Strings][LEVEL 3] 9,999,999,999
+[Strings][LEVEL 3] 日目
+[Strings][LEVEL 3] 24
+[Strings][LEVEL 3] 1,155,000
+[Strings][LEVEL 1] -
+[Strings][LEVEL 1] 桜井
+[Strings][LEVEL 1] 千沙登
+[Strings][LEVEL 1] 育成中
+[Strings][LEVEL 1] 550,000
+[Strings][LEVEL 1] 菊池
+[Strings][LEVEL 1] 鈴
+[Strings][LEVEL 1] 534,000
+[Strings][LEVEL 1] 前原
+[Strings][LEVEL 1] 鳴海
+[Strings][LEVEL 1] 540,000
+[Strings][LEVEL 15] 純愛
+[Strings][LEVEL 15] NPC
+[Strings][LEVEL 15] NTR
+[Strings][LEVEL 24] NTR・可靠女仆
+[Strings][LEVEL 24] NTR・认真女仆
+[Strings][LEVEL 24] NTR・单纯女仆
+[Strings][LEVEL 24] 纯爱・可靠女仆
+[Strings][LEVEL 24] 纯爱・认真女仆
+[Strings][LEVEL 24] 纯爱・单纯女仆
+[Strings][LEVEL 24] 侍寝
+[Strings][LEVEL 24] 工作
+[Strings][LEVEL 24] 训练课程
+[Strings][LEVEL 24] 1
+[Strings][LEVEL 24] 7
+[Strings][LEVEL 24] 9
+[Strings][LEVEL 24] 8
+[Strings][LEVEL 24] 変態
+[Strings][LEVEL 24] 条 件
+[Strings][LEVEL 24] ■□□□□●○○○○■□□□□●○○○○■□□□□●○○○○■□□□□●○○○○■□□□□●○○○○■□□□□●○○○○■□□□□●○○○○■□□□□●○○○○
+[Strings][LEVEL 24] M性
+[Strings][LEVEL 24] 指導
+[Strings][LEVEL 24] 2
+[Strings][LEVEL 24] 淫欲
+[Strings][LEVEL 24] 奉仕
+[Strings][LEVEL 24] 请选择一个回忆种类。
+[Strings][LEVEL 24] ■□□□□●□□□□■□□□□●□□□□■□□□□●□□□□■□□□□●□□□□■□□□□●□□□□■□□□□●□□□□■□□□□●□□□□■□□□□●□□□□
+[Strings][LEVEL 24] 6
+[Strings][LEVEL 24] 世　話
+[Strings][LEVEL 24] 条件
+[Strings][LEVEL 15] 交換
+[Strings][LEVEL 15] 乱交
+[Strings][LEVEL 15] 詰られ
+[Strings][LEVEL 14] 999999
+[Strings][LEVEL 14] 夜伽回数
+[Strings][LEVEL 14] 9999
+[Strings][LEVEL 14] 変     態
+[Strings][LEVEL 14] M      性
+[Strings][LEVEL 14] 淫     欲
+[Strings][LEVEL 14] 奉     仕
+[Strings][LEVEL 14] 精     神
+[Strings][LEVEL 14] 体     力
+[Strings][LEVEL 14] %
+[Strings][LEVEL 14] 習得率
+[Strings][LEVEL 14] 状     態
+[Strings][LEVEL 14] 関     係
+[Strings][LEVEL 14] 後ろ経験あり
+[Strings][LEVEL 14] 性  経  験
+[Strings][LEVEL 14] ああああああああああああああああああああ
+[Strings][LEVEL 14] 名前
+[Strings][LEVEL 14] 専属
+[Strings][LEVEL 14] 后宫
+[Strings][LEVEL 14] コスチューム変更
+[Strings][LEVEL 14] 消費体力
+[Strings][LEVEL 14] 媚薬
+[Strings][LEVEL 14] -30
+[Strings][LEVEL 14] 夜伽クラス取得EXP
+[Strings][LEVEL 14] +9999
+[Strings][LEVEL 14] UNDRESSING
+[Strings][LEVEL 14] 000
+[Strings][LEVEL 14] 精神
+[Strings][LEVEL 14] 変       態
+[Strings][LEVEL 14] スキル経験値
+[Strings][LEVEL 14] STATUS
+[Strings][LEVEL 14] 可       憐
+[Strings][LEVEL 14] 気       品
+[Strings][LEVEL 14] ／
+[Strings][LEVEL 14] 習得スキル
+[Strings][LEVEL 14] だいしゅきホールアナルセックス正常位
+[Strings][LEVEL 14] 淫     乱
+[Strings][LEVEL 14] 酔い
+[Strings][LEVEL 14] 取得性癖
+[Strings][LEVEL 14] 指       導
+[Strings][LEVEL 14] ああああああああああ
+[Strings][LEVEL 14] PARAMETER
+[Strings][LEVEL 14] 興奮値
+[Strings][LEVEL 14] STATUS LOCK
+[Strings][LEVEL 14] COMMAND
+[Strings][LEVEL 14] M       性
+[Strings][LEVEL 14] 告白
+[Strings][LEVEL 14] 奉       仕
+[Strings][LEVEL 14] 淫       欲
+[Strings][LEVEL 14] 接客夜伽
+[Strings][LEVEL 14] 全て解除
+[Strings][LEVEL 14] 通常
+[Strings][LEVEL 14] 夜伽クラスレベル
+[Strings][LEVEL 14] パラメータ変動
+[Strings][LEVEL 14] +1
+[Strings][LEVEL 14] 目隠し
+[Strings][LEVEL 14] 夜伽クラスEXP
+[Strings][LEVEL 14] 魅       惑
+[Strings][LEVEL 14] SKILL SELECT
+[Strings][LEVEL 14] 官能
+[Strings][LEVEL 14] 劇場
+[Strings][LEVEL 14] Lv.1
+[Strings][LEVEL 14] Lv.2
+[Strings][LEVEL 14] Lv.3
+[Strings][LEVEL 14] アナル処女喪失セックス
+[Strings][LEVEL 14] セックス正常位
+[Strings][LEVEL 14] 性正常位.
+[Strings][LEVEL 14] 300
+[Strings][LEVEL 14] 0
+[Strings][LEVEL 14] 105
+[Strings][LEVEL 14] 責める
+[Strings][LEVEL 14] 強く責める
+[Strings][LEVEL 14] 止める
+[Strings][LEVEL 14] 放尿絶頂
+[Strings][LEVEL 14] 潮吹き絶頂
+[Strings][LEVEL 14] 中出しおねだり
+[Strings][LEVEL 14] 中出しする
+[Strings][LEVEL 14] 外出しする
+[Strings][LEVEL 14] キスおねだり
+[Strings][LEVEL 14] ホールドおねだり
+[Strings][LEVEL 14] キスしながら
+[Strings][LEVEL 14] 胸を揉みながら
+[Strings][LEVEL 14] 発情させる
+[Strings][LEVEL 14] #H0_04004.ogg ……あ、あの、ご主人様……？　ちょっとだけ、待ってください……まだ恥ずかしくて……うう、こんな格好……
+[Strings][LEVEL 14] 屁眼处女丧失性别
+[Strings][LEVEL 14] 一边揉着胸部
+[Strings][LEVEL 14] 停下来吧！
+[Strings][LEVEL 14] 责怪(责怪)
+[Strings][LEVEL 14] 性癖【お漏らし癖】
+[Strings][LEVEL 14] 興奮 200
+[Strings][LEVEL 14] 淫欲 5000
+[Strings][LEVEL 14] 変態 5000
+[Strings][LEVEL 14] 外出(外出)
+[Strings][LEVEL 14] 性癖【甘えん坊】
+[Strings][LEVEL 14] 拿着吧求你了
+[Strings][LEVEL 14] 强烈地责怪.
+[Strings][LEVEL 14] 性癖【中出し大好き】
+[Strings][LEVEL 14] 请拿出里面来
+[Strings][LEVEL 14] 中出(出)
+[Strings][LEVEL 14] 一边亲吻一边
+[Strings][LEVEL 14] 官能 300
+[Strings][LEVEL 14] 使之发情.
+[Strings][LEVEL 14] 状态
+[Strings][LEVEL 14] 性癖【敏感体質】
+[Strings][LEVEL 14] 吹潮绝顶.
+[Strings][LEVEL 14] 亲吻我的请求
+[Strings][LEVEL 14] 脱掉衣服
+[Strings][LEVEL 14] 酔い愛撫
+[Strings][LEVEL 14] 酔いバイブ責め
+[Strings][LEVEL 14] 酔いセックス正常位
+[Strings][LEVEL 14] System.Net.WebException: Error: NameResolutionFailure\r  at System.Net.HttpWebRequest.EndGetRequestStream (IAsyncResult asyncResult) [0x00000] in <filename unknown>:0 \r  at System.Net.HttpWebRequest.GetRequestStream () [0x00000] in <filename unknown>:0 \r  at UIWidget+Translater.Post (System.String url, System.String parameterStr) [0x00000] in <filename unknown>:0 \r  at UIWidget+Translater.Invoke (System.String text) [0x00000] in <filename unknown>:0
+[Strings][LEVEL 14] 1366x768
+[Strings][LEVEL 14] X2
+[Strings][LEVEL 14] X1
+[Strings][LEVEL 14] OFF
+[Strings][LEVEL 14] ON
+[Strings][LEVEL 14] SOUND
+[Strings][LEVEL 14] MESSAGE
+[Strings][LEVEL 14] 3D
+[Strings][LEVEL 14] SYSTEM
+[Strings][LEVEL 14] SCREEN
+[Strings][LEVEL 14] 1024x576
+[Strings][LEVEL 14] 1280x720
+[Strings][LEVEL 14] 1920x1080
+[Strings][LEVEL 14] アナルオナニー
+[Strings][LEVEL 14] Ｈなポーズ
+[Strings][LEVEL 14] Analoonney(安娜妮)
+[Strings][LEVEL 14] 醉(醉)
+[Strings][LEVEL 14] 酔いオナニー
+[Strings][LEVEL 14] 酔いフェラチオ
+[Strings][LEVEL 14] イカせる
+[Strings][LEVEL 14] 絶頂焦らし
+[Strings][LEVEL 14] 口を責める
+[Strings][LEVEL 14] #H0_01154.ogg うぅ、そ、そんな……オモチャ使って、だなんて……恥ずかしいです、ご主人様ぁ……
+[Strings][LEVEL 14] 興奮
+[Strings][LEVEL 14] 興奮　10
+[Strings][LEVEL 14] #H0_00262.ogg んっ、んんんぅっ……
+[Strings][LEVEL 3] 
+[Strings][LEVEL 3] 放出
+[Strings][LEVEL 3] 夜
+[Strings][LEVEL 3] 31
+[Strings][LEVEL 3] 14
+[Strings][LEVEL 3] 27
+[Strings][LEVEL 3] 37
+[Strings][LEVEL 3] 12
+[Strings][LEVEL 3] 36
+[Strings][LEVEL 3] 33
+[Strings][LEVEL 3] 19
+[Strings][LEVEL 3] 20
+[Strings][LEVEL 3] 28
+[Strings][LEVEL 3] 39
+[Strings][LEVEL 3] 22
+[Strings][LEVEL 3] 26
+[Strings][LEVEL 3] 35
+[Strings][LEVEL 3] 17
+[Strings][LEVEL 3] 38
+[Strings][LEVEL 3] 32
+[Strings][LEVEL 3] 34
+[Strings][LEVEL 3] 昼
+[Strings][LEVEL 3] 25
+[Strings][LEVEL 3] 21
+[Strings][LEVEL 3] 15
+[Strings][LEVEL 3] 18
+[Strings][LEVEL 3] 16
+[Strings][LEVEL 3] 23
+[Strings][LEVEL 3] 11
+[Strings][LEVEL 3] 30
+[Strings][LEVEL 3] 13
+[Strings][LEVEL 3] キャラクター
+[Strings][LEVEL 3] 29
+[Strings][LEVEL 3] 40
+[Strings][LEVEL 3] COMMU
+[Strings][LEVEL 3] 189
+[Strings][LEVEL 3] 431
+[Strings][LEVEL 3] 685
+[Strings][LEVEL 3] 368
+[Strings][LEVEL 3] 250
+[Strings][LEVEL 3] 902
+[Strings][LEVEL 3] 120
+[Strings][LEVEL 3] 389
+[Strings][LEVEL 3] +24
+[Strings][LEVEL 3] +48
+[Strings][LEVEL 3] +60
+[Strings][LEVEL 3] +12
+[Strings][LEVEL 3] +96
+[Strings][LEVEL 3] +312
+[Strings][LEVEL 3] ジョブメイドEXP
+[Strings][LEVEL 3] 388
+[Strings][LEVEL 3] 108
+[Strings][LEVEL 3] 150
+[Strings][LEVEL 3] 869
+[Strings][LEVEL 3] 1077
+[Strings][LEVEL 3] 606
+[Strings][LEVEL 3] 69
+[Strings][LEVEL 3] +36
+[Strings][LEVEL 3] +144
+[Strings][LEVEL 3] +216
+[Strings][LEVEL 3] +33
+[Strings][LEVEL 3] +28
+[Strings][LEVEL 3] +56
+[Strings][LEVEL 3] +22
+[Strings][LEVEL 3] +2
+[Strings][LEVEL 3] 配置
+[Strings][LEVEL 3] +57
+[Strings][LEVEL 3] +26
+[Strings][LEVEL 3] +51
+[Strings][LEVEL 3] +25
+[Strings][LEVEL 3] +17
+[Strings][LEVEL 3] 99,999,999,999
+[Strings][LEVEL 3] 設置
+[Strings][LEVEL 3] 12,345,678,900
+[Strings][LEVEL 3] ---
+[Strings][LEVEL 3] --
+[Strings][LEVEL 3] 角色(人物)
+[Strings][LEVEL 7] 00000
+[Strings][LEVEL 7] 身          長
+[Strings][LEVEL 7] 夜伽情報
+[Strings][LEVEL 7] cm
+[Strings][LEVEL 7] 接客回数
+[Strings][LEVEL 7] 精           神
+[Strings][LEVEL 7] 口
+[Strings][LEVEL 7] ああああああああ
+[Strings][LEVEL 7] H PARAMETER
+[Strings][LEVEL 7] Lv.
+[Strings][LEVEL 7] APPEAL
+[Strings][LEVEL 7] 100
+[Strings][LEVEL 7] 9999999
+[Strings][LEVEL 7] CHARACTER
+[Strings][LEVEL 7] ジョブメイド
+[Strings][LEVEL 7] 性経験
+[Strings][LEVEL 7] （   ）
+[Strings][LEVEL 7] 雇用日数
+[Strings][LEVEL 7] BODY SIZE
+[Strings][LEVEL 7] 気           品
+[Strings][LEVEL 7] 夜伽スキル
+[Strings][LEVEL 7] 2015.12.30  22:00
+[Strings][LEVEL 7] 喉
+[Strings][LEVEL 7] SEX EXPERIENCE
+[Strings][LEVEL 7] kg
+[Strings][LEVEL 7] 指           導
+[Strings][LEVEL 7] 取得客評価
+[Strings][LEVEL 7] ■□□□□●□□□□■□□□□●□□□■□□□□●□□□□■□□□□●□□□■□□□□●□□□□■□□□□●□□□■□□□□●□□□□■□□□□●□□□■□□□□●□□□□■□□□□●□□□
+[Strings][LEVEL 7] 99
+[Strings][LEVEL 7] 魅           惑
+[Strings][LEVEL 7] 変           態
+[Strings][LEVEL 7] ヒロインタイプ
+[Strings][LEVEL 7] 体           力
+[Strings][LEVEL 7] EVALUATION
+[Strings][LEVEL 7] アブノーマルメイド
+[Strings][LEVEL 7] 状           態
+[Strings][LEVEL 7] 取得資金
+[Strings][LEVEL 7] ○○○○○○○○○○メイド
+[Strings][LEVEL 7] 体          重
+[Strings][LEVEL 7] CONTRACT TYPE
+[Strings][LEVEL 7] EROGENOUS ZONE
+[Strings][LEVEL 7] 移  籍
+[Strings][LEVEL 7] 淫           欲
+[Strings][LEVEL 7] EXP
+[Strings][LEVEL 7] 接           待
+[Strings][LEVEL 7] 可           憐
+[Strings][LEVEL 7] M            性
+[Strings][LEVEL 7] JOB MAID
+[Strings][LEVEL 7] 関           係
+[Strings][LEVEL 7] 料           理
+[Strings][LEVEL 7] 名      前
+[Strings][LEVEL 7] A
+[Strings][LEVEL 7] 処女
+[Strings][LEVEL 7] 奉           仕
+[Strings][LEVEL 7] アピール
+[Strings][LEVEL 7] 488,000
+[Strings][LEVEL 7] 293,000
+[Strings][LEVEL 7] コーヒーの淹れ方、お菓子作りなど、オープンカフェで働く際に必要な技能を習得したメイドに与えられるジョブメイドクラス。ほっと一息の安らぎの時間を提供します。
+[Strings][LEVEL 15] [HF]
+[Strings][LEVEL 15] ふんふ～、ふんふふ～♪
+[Strings][LEVEL 15] 哼
+[Strings][LEVEL 15] 哼~哼呵呵~♪
+[Strings][LEVEL 15] カフェに顔を出すと、[hf]はにこにこしながら働いていた。
+[Strings][LEVEL 15] 他
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井笑
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井笑眯
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井笑眯眯
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井笑眯眯地
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井笑眯眯地工
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井笑眯眯地工作
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井笑眯眯地工作着
+[Strings][LEVEL 15] 他一露面来到咖啡厅，樱井笑眯眯地工作着。
+[Strings][LEVEL 15] きっと、ここでの仕事が性に合っているのだろう。
+[Strings][LEVEL 15] 这
+[Strings][LEVEL 15] 这里的工作一定是合
+[Strings][LEVEL 15] 这里的工作一定是合乎
+[Strings][LEVEL 15] 这里的工作一定是合乎情
+[Strings][LEVEL 15] 这里的工作一定是合乎情理
+[Strings][LEVEL 15] 这里的工作一定是合乎情理的
+[Strings][LEVEL 15] 这里的工作一定是合乎情理的吧
+[Strings][LEVEL 15] 这里的工作一定是合乎情理的吧。
+[Strings][LEVEL 15] [SF]
+[Strings][LEVEL 15] [hf]、お疲れ様。あっ……口にクッキーの食べカスついてるよ。
+[Strings][LEVEL 15] 樱
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴里
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴里有
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴里有饼
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴里有饼干
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴里有饼干的
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴里有饼干的食
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴里有饼干的食物
+[Strings][LEVEL 15] 樱井，辛苦了。啊……嘴里有饼干的食物。
+[Strings][LEVEL 15] えっ、うそ……！？　ホントだー！！　……うぅ、恥ずかしい……
+[Strings][LEVEL 15] 诶
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！…
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……哇
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……哇，
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……哇，太
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……哇，太丢
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……哇，太丢脸
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……哇，太丢脸了
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……哇，太丢脸了…
+[Strings][LEVEL 15] 诶，骗人……！？真的啊！！……哇，太丢脸了……
+[Strings][LEVEL 15] ウェイトレスメイドたるもの、いついかなる時もお客様に見られる自覚を持つ！
+[Strings][LEVEL 15] 作
+[Strings][LEVEL 15] 作为女服务员，无论何时任
+[Strings][LEVEL 15] 作为女服务员，无论何时任何
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被客
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被客人
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被客人看
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被客人看到
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被客人看到的
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被客人看到的自
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被客人看到的自觉
+[Strings][LEVEL 15] 作为女服务员，无论何时任何时候都有被客人看到的自觉！
+[Strings][LEVEL 15] やはり、まだまだウェイトレスメイドとしての自覚は備わっていないようだ。
+[Strings][LEVEL 15] 果
+[Strings][LEVEL 15] 果然，她似乎还不具备作为女服务员
+[Strings][LEVEL 15] 果然，她似乎还不具备作为女服务员的
+[Strings][LEVEL 15] 果然，她似乎还不具备作为女服务员的自
+[Strings][LEVEL 15] 果然，她似乎还不具备作为女服务员的自觉
+[Strings][LEVEL 15] 果然，她似乎还不具备作为女服务员的自觉。
+[Strings][LEVEL 15] は、はいーっ！
+[Strings][LEVEL 15] 是
+[Strings][LEVEL 15] 是，是啊！
+[Strings][LEVEL 15] はは、冗談だよ。メイド秘書が言いそうな事だね。
+[Strings][LEVEL 15] 是啊，开玩笑的。
+[Strings][LEVEL 15] 是啊，开玩笑的。是
+[Strings][LEVEL 15] 是啊，开玩笑的。是女
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆秘
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆秘书
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆秘书要
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆秘书要说
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆秘书要说的
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆秘书要说的事
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆秘书要说的事吧
+[Strings][LEVEL 15] 是啊，开玩笑的。是女仆秘书要说的事吧。
+[Strings][LEVEL 15] でも、なんで仕事中にクッキーの食べかすが……あっ、まさか……つまみぐい？
+[Strings][LEVEL 15] 但
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难道
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难道…
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难道……
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难道……下
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难道……下酒
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难道……下酒菜
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难道……下酒菜吗
+[Strings][LEVEL 15] 但是，为什么在工作中吃饼干……啊，难道……下酒菜吗？
+[Strings][LEVEL 15] ち、違います！　れっきとしたお仕事です！　お客様に出す為に味や量の調整をですね……
+[Strings][LEVEL 15] 不
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道和
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道和量
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道和量的
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道和量的调
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道和量的调整
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道和量的调整呢
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道和量的调整呢…
+[Strings][LEVEL 15] 不，不是！这是很好的工作！为了给顾客做的味道和量的调整呢……
+[Strings][LEVEL 15] ふーん、美味しかった？
+[Strings][LEVEL 15] 嗯
+[Strings][LEVEL 15] 嗯，很好吃吗？
+[Strings][LEVEL 15] それは凄く！　甘くて……さくさくで、ふわふわで……幸せすぎて溶けちゃいそうでした！
+[Strings][LEVEL 15] 那
+[Strings][LEVEL 15] 那太厉害了！太甜了…
+[Strings][LEVEL 15] 那太厉害了！太甜了……
+[Strings][LEVEL 15] 那太厉害了！太甜了……又
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的…
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福了
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福了，
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福了，快
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福了，快要
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福了，快要融
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福了，快要融化
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福了，快要融化了
+[Strings][LEVEL 15] 那太厉害了！太甜了……又软又软绵绵的……太幸福了，快要融化了！
+[Strings][LEVEL 15] どのくらい食べたの……？
+[Strings][LEVEL 15] 吃
+[Strings][LEVEL 15] 吃了多少……？
+[Strings][LEVEL 15] うっ……ちょっと多めに貰ったので２０枚くらい……です。
+[Strings][LEVEL 15] 唔
+[Strings][LEVEL 15] 唔.因为收到了多一点
+[Strings][LEVEL 15] 唔.因为收到了多一点，
+[Strings][LEVEL 15] 唔.因为收到了多一点，所
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以2
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20张
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20张左
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20张左右
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20张左右…
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20张左右……
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20张左右……是
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20张左右……是的
+[Strings][LEVEL 15] 唔.因为收到了多一点，所以20张左右……是的。
+[Strings][LEVEL 15] ふ、太るよ……？
+[Strings][LEVEL 15] 呵
+[Strings][LEVEL 15] 呵呵，会发胖的……？
+[Strings][LEVEL 15] うぅ～～～！　言わないでくださいっ！　これでも気にしているんですから！
+[Strings][LEVEL 15] 哇
+[Strings][LEVEL 15] 哇~！请不要说！这我
+[Strings][LEVEL 15] 哇~！请不要说！这我也
+[Strings][LEVEL 15] 哇~！请不要说！这我也很
+[Strings][LEVEL 15] 哇~！请不要说！这我也很在
+[Strings][LEVEL 15] 哇~！请不要说！这我也很在意
+[Strings][LEVEL 15] 哇~！请不要说！这我也很在意啊
+[Strings][LEVEL 15] 哇~！请不要说！这我也很在意啊！
+[Strings][LEVEL 15] むすっと頬を膨らまし、彼女はポカポカと俺を殴ってくる。
+[Strings][LEVEL 15] 她
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻轻
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻轻地
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻轻地打
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻轻地打了
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻轻地打了我
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻轻地打了我一
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻轻地打了我一顿
+[Strings][LEVEL 15] 她的脸颊猛然鼓了起来，轻轻地打了我一顿。
+[Strings][LEVEL 15] ま、まぁ……その食べ過ぎには気を付けてね？
+[Strings][LEVEL 15] 嘛
+[Strings][LEVEL 15] 嘛，嘛……你要注意你吃得
+[Strings][LEVEL 15] 嘛，嘛……你要注意你吃得太
+[Strings][LEVEL 15] 嘛，嘛……你要注意你吃得太多
+[Strings][LEVEL 15] 嘛，嘛……你要注意你吃得太多了
+[Strings][LEVEL 15] 嘛，嘛……你要注意你吃得太多了吗
+[Strings][LEVEL 15] 嘛，嘛……你要注意你吃得太多了吗？
+[Strings][LEVEL 15] りょ、りょうかいであります……
+[Strings][LEVEL 15] 这就是我的意思……
+[Strings][LEVEL 15] 居心地が悪くなり、俺には逃げるように退散した。
+[Strings][LEVEL 15] 心
+[Strings][LEVEL 15] 心情变得不舒服，像
+[Strings][LEVEL 15] 心情变得不舒服，像是
+[Strings][LEVEL 15] 心情变得不舒服，像是要
+[Strings][LEVEL 15] 心情变得不舒服，像是要逃
+[Strings][LEVEL 15] 心情变得不舒服，像是要逃跑
+[Strings][LEVEL 15] 心情变得不舒服，像是要逃跑似
+[Strings][LEVEL 15] 心情变得不舒服，像是要逃跑似的
+[Strings][LEVEL 15] 心情变得不舒服，像是要逃跑似的走
+[Strings][LEVEL 15] 心情变得不舒服，像是要逃跑似的走开
+[Strings][LEVEL 15] 心情变得不舒服，像是要逃跑似的走开了
+[Strings][LEVEL 15] 心情变得不舒服，像是要逃跑似的走开了。
+[Strings][LEVEL 15] ……それからしばらく、彼女は自分の腹部を見つめてぼーっとする時間が増えたという。
+[Strings][LEVEL 15] …
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发呆
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发呆的
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发呆的时
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发呆的时间
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发呆的时间增
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发呆的时间增加
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发呆的时间增加了
+[Strings][LEVEL 15] ……在那之后的一段时间里，她盯着自己的腹部发呆的时间增加了。
+[Strings][LEVEL 3] + 33
+[Strings][LEVEL 3] 可　燐
+[Strings][LEVEL 3] + 66
+[Strings][LEVEL 3] 料　理
+[Strings][LEVEL 3] 接　待
+[Strings][LEVEL 3] + 74
+[Strings][LEVEL 3] 気　品
+[Strings][LEVEL 3] + 161,000
+[Strings][LEVEL 3] + 2
+[Strings][LEVEL 3] + 144
+[Strings][LEVEL 3] + 36
+[Strings][LEVEL 3] 魅　惑
+[Strings][LEVEL 3] + 216
+[Strings][LEVEL 3] + 12
+[Strings][LEVEL 3] + 24
+[Strings][LEVEL 3] + 48
+[Strings][LEVEL 3] + 312
+[Strings][LEVEL 3] + 60
+[Strings][LEVEL 3] + 96
+[Strings][LEVEL 3] + 144,000
+[Strings][LEVEL 3] 1,604,000
+[Strings][LEVEL 15] バーで働く[hf]の様子を見に、今日もこっそりと忍び込む。
+[Strings][LEVEL 15] 看
+[Strings][LEVEL 15] 看着在酒吧工作的铃的
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天也
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天也偷
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天也偷偷
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天也偷偷溜
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天也偷偷溜了
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天也偷偷溜了进
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天也偷偷溜了进去
+[Strings][LEVEL 15] 看着在酒吧工作的铃的样子，今天也偷偷溜了进去。
+[Strings][LEVEL 15] そこでは[hf]が珍しく、床にモップがけをしていた。
+[Strings][LEVEL 15] 在
+[Strings][LEVEL 15] 在那里，铃很少见，拖
+[Strings][LEVEL 15] 在那里，铃很少见，拖着
+[Strings][LEVEL 15] 在那里，铃很少见，拖着拖
+[Strings][LEVEL 15] 在那里，铃很少见，拖着拖到
+[Strings][LEVEL 15] 在那里，铃很少见，拖着拖到地
+[Strings][LEVEL 15] 在那里，铃很少见，拖着拖到地板
+[Strings][LEVEL 15] 在那里，铃很少见，拖着拖到地板上
+[Strings][LEVEL 15] 在那里，铃很少见，拖着拖到地板上。
+[Strings][LEVEL 15] はぁ……まさか、あんな……ぅう、早く掃除しないと……
+[Strings][LEVEL 15] 啊
+[Strings][LEVEL 15] 啊……不会吧，那么…
+[Strings][LEVEL 15] 啊……不会吧，那么……
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得快
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得快点
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得快点打
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得快点打扫
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得快点打扫才
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得快点打扫才行
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得快点打扫才行…
+[Strings][LEVEL 15] 啊……不会吧，那么……嗯，得快点打扫才行……
+[Strings][LEVEL 15] 一体なにがあったのかな？
+[Strings][LEVEL 15] 到
+[Strings][LEVEL 15] 到底发生了什么事呢？
+[Strings][LEVEL 15] きゃああっ！
+[Strings][LEVEL 15] 啊！
+[Strings][LEVEL 15] 突如姿を現すと、黙々と掃除していた[hf]が驚きのあまり飛び上がった。
+[Strings][LEVEL 15] 突
+[Strings][LEVEL 15] 突然出现，默默打扫的
+[Strings][LEVEL 15] 突然出现，默默打扫的铃
+[Strings][LEVEL 15] 突然出现，默默打扫的铃吓
+[Strings][LEVEL 15] 突然出现，默默打扫的铃吓得
+[Strings][LEVEL 15] 突然出现，默默打扫的铃吓得跳
+[Strings][LEVEL 15] 突然出现，默默打扫的铃吓得跳了
+[Strings][LEVEL 15] 突然出现，默默打扫的铃吓得跳了起
+[Strings][LEVEL 15] 突然出现，默默打扫的铃吓得跳了起来
+[Strings][LEVEL 15] 突然出现，默默打扫的铃吓得跳了起来。
+[Strings][LEVEL 15] ご、ご主人様……？　どうして、いつの間に……
+[Strings][LEVEL 15] 主
+[Strings][LEVEL 15] 主人……？为什么，不知什么时候……
+[Strings][LEVEL 15] [hf]の様子が気になってね。で、これは何があったの？
+[Strings][LEVEL 15] 我
+[Strings][LEVEL 15] 我很在意铃的样子。那么，这是怎么回
+[Strings][LEVEL 15] 我很在意铃的样子。那么，这是怎么回事
+[Strings][LEVEL 15] 我很在意铃的样子。那么，这是怎么回事？
+[Strings][LEVEL 15] 床に広がるお酒の水たまりを指差すと、[hf]は申し訳無さそうな表情でうつむいた。
+[Strings][LEVEL 15] 他指着铺在地板上的酒池，铃一脸抱歉地低下头
+[Strings][LEVEL 15] 他指着铺在地板上的酒池，铃一脸抱歉地低下头。
+[Strings][LEVEL 15] そ、それが……ごめんなさい、私、ちょっと手を滑らせて……
+[Strings][LEVEL 15] 那，那就是……对不起
+[Strings][LEVEL 15] 那，那就是……对不起，
+[Strings][LEVEL 15] 那，那就是……对不起，我
+[Strings][LEVEL 15] 那，那就是……对不起，我，
+[Strings][LEVEL 15] 那，那就是……对不起，我，让
+[Strings][LEVEL 15] 那，那就是……对不起，我，让我
+[Strings][LEVEL 15] 那，那就是……对不起，我，让我滑
+[Strings][LEVEL 15] 那，那就是……对不起，我，让我滑一
+[Strings][LEVEL 15] 那，那就是……对不起，我，让我滑一下
+[Strings][LEVEL 15] 那，那就是……对不起，我，让我滑一下手
+[Strings][LEVEL 15] 那，那就是……对不起，我，让我滑一下手…
+[Strings][LEVEL 15] 那，那就是……对不起，我，让我滑一下手……
+[Strings][LEVEL 15] お酒の瓶落としたとか？　怪我しなかった？
+[Strings][LEVEL 15] 酒
+[Strings][LEVEL 15] 酒的瓶子掉了吗？
+[Strings][LEVEL 15] 酒的瓶子掉了吗？你
+[Strings][LEVEL 15] 酒的瓶子掉了吗？你没
+[Strings][LEVEL 15] 酒的瓶子掉了吗？你没受
+[Strings][LEVEL 15] 酒的瓶子掉了吗？你没受伤
+[Strings][LEVEL 15] 酒的瓶子掉了吗？你没受伤吗
+[Strings][LEVEL 15] 酒的瓶子掉了吗？你没受伤吗？
+[Strings][LEVEL 15] い、いえ……！　落としたのは、瓶じゃなくて。
+[Strings][LEVEL 15] 不，不……！掉的不是
+[Strings][LEVEL 15] 不，不……！掉的不是瓶
+[Strings][LEVEL 15] 不，不……！掉的不是瓶子
+[Strings][LEVEL 15] 不，不……！掉的不是瓶子。
+[Strings][LEVEL 15] 瓶じゃなくて？
+[Strings][LEVEL 15] 不是瓶子？
+[Strings][LEVEL 15] その……シェイカーを落としてしまって……シェイクしてる時に、手からすっぽり抜けて……ぅう……
+[Strings][LEVEL 15] 那个.把Shake
+[Strings][LEVEL 15] 那个.把Shaker
+[Strings][LEVEL 15] 那个.把Shaker弄
+[Strings][LEVEL 15] 那个.把Shaker弄掉
+[Strings][LEVEL 15] 那个.把Shaker弄掉了
+[Strings][LEVEL 15] 那个.把Shaker弄掉了…
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完全
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完全脱
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完全脱身
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完全脱身…
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完全脱身……
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完全脱身……嗯
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完全脱身……嗯…
+[Strings][LEVEL 15] 那个.把Shaker弄掉了……在摇摇晃晃的时候，从手中完全脱身……嗯……
+[Strings][LEVEL 15] 顔を赤くして説明する[hf]の視線の先には、確かにまだ濡れたままのシェイカーがあった。
+[Strings][LEVEL 15] 在红着脸说明的铃的视线前方，确实是一辆依然
+[Strings][LEVEL 15] 在红着脸说明的铃的视线前方，确实是一辆依然湿
+[Strings][LEVEL 15] 在红着脸说明的铃的视线前方，确实是一辆依然湿透
+[Strings][LEVEL 15] 在红着脸说明的铃的视线前方，确实是一辆依然湿透的
+[Strings][LEVEL 15] 在红着脸说明的铃的视线前方，确实是一辆依然湿透的奶
+[Strings][LEVEL 15] 在红着脸说明的铃的视线前方，确实是一辆依然湿透的奶昔
+[Strings][LEVEL 15] 在红着脸说明的铃的视线前方，确实是一辆依然湿透的奶昔。
+[Strings][LEVEL 15] ぷふっ……え、ほんとに？　あれ持ってて、すっぽ抜けることなんてあるの？
+[Strings][LEVEL 15] 呼
+[Strings][LEVEL 15] 呼呼呼……诶，真
+[Strings][LEVEL 15] 呼呼呼……诶，真的
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个就
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个就能
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个就能逃
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个就能逃出
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个就能逃出来
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个就能逃出来的
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个就能逃出来的事
+[Strings][LEVEL 15] 呼呼呼……诶，真的吗？有没有拿着那个就能逃出来的事？
+[Strings][LEVEL 15] 思わず笑ってしまうと、[hf]の表情がさらに赤くなっていく。
+[Strings][LEVEL 15] 忍
+[Strings][LEVEL 15] 忍不住笑了出来，铃的
+[Strings][LEVEL 15] 忍不住笑了出来，铃的表
+[Strings][LEVEL 15] 忍不住笑了出来，铃的表情
+[Strings][LEVEL 15] 忍不住笑了出来，铃的表情变
+[Strings][LEVEL 15] 忍不住笑了出来，铃的表情变得
+[Strings][LEVEL 15] 忍不住笑了出来，铃的表情变得更
+[Strings][LEVEL 15] 忍不住笑了出来，铃的表情变得更红
+[Strings][LEVEL 15] 忍不住笑了出来，铃的表情变得更红了
+[Strings][LEVEL 15] 忍不住笑了出来，铃的表情变得更红了。
+[Strings][LEVEL 15] わ、笑わないでください！　私、ただでさえ恥ずかしいのにっ……ぅう……！
+[Strings][LEVEL 15] 哇，请不要笑！我本来
+[Strings][LEVEL 15] 哇，请不要笑！我本来就
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢脸
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢脸的
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢脸的…
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢脸的……
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢脸的……嗯
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢脸的……嗯…
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢脸的……嗯……
+[Strings][LEVEL 15] 哇，请不要笑！我本来就很丢脸的……嗯……！
+[Strings][LEVEL 15] いや、だって……ふふ、シェイカーが、手からっ……ぷ、はは……！
+[Strings][LEVEL 15] 不，因为……呵呵，Sh
+[Strings][LEVEL 15] 不，因为……呵呵，Sha
+[Strings][LEVEL 15] 不，因为……呵呵，Shak
+[Strings][LEVEL 15] 不，因为……呵呵，Shake
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上…
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上……
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上……哈
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上……哈，
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上……哈，哈
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上……哈，哈…
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上……哈，哈……
+[Strings][LEVEL 15] 不，因为……呵呵，Shaker从手上……哈，哈……！
+[Strings][LEVEL 15] 情けない様子で縮こまる[hf]を笑っていると、流石に[hf]も反論したくなったようだった。
+[Strings][LEVEL 15] 当
+[Strings][LEVEL 15] 当铃笑着一副丢脸的样子蜷缩着的时候，铃
+[Strings][LEVEL 15] 当铃笑着一副丢脸的样子蜷缩着的时候，铃似
+[Strings][LEVEL 15] 当铃笑着一副丢脸的样子蜷缩着的时候，铃似乎
+[Strings][LEVEL 15] 当铃笑着一副丢脸的样子蜷缩着的时候，铃似乎也
+[Strings][LEVEL 15] 当铃笑着一副丢脸的样子蜷缩着的时候，铃似乎也想
+[Strings][LEVEL 15] 当铃笑着一副丢脸的样子蜷缩着的时候，铃似乎也想反
+[Strings][LEVEL 15] 当铃笑着一副丢脸的样子蜷缩着的时候，铃似乎也想反驳
+[Strings][LEVEL 15] 当铃笑着一副丢脸的样子蜷缩着的时候，铃似乎也想反驳。
+[Strings][LEVEL 15] そんなに笑うなら、ご主人様もやってみてください！　絶対すっぽ抜けますから！
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！我
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！我绝
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！我绝对
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！我绝对会
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！我绝对会错
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！我绝对会错过
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！我绝对会错过的
+[Strings][LEVEL 15] 那么笑的话，主人也试试吧！我绝对会错过的！
+[Strings][LEVEL 15] えぇー？　別にいいけど、すっぽ抜けないと思うよ？
+[Strings][LEVEL 15] 是吗？虽然没什么关系
+[Strings][LEVEL 15] 是吗？虽然没什么关系，
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉得
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉得我
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉得我拔
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉得我拔不
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉得我拔不出
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉得我拔不出来
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉得我拔不出来呢
+[Strings][LEVEL 15] 是吗？虽然没什么关系，但我觉得我拔不出来呢？
+[Strings][LEVEL 15] [hf]に急かされ、やや強引にお酒を入れたシェイカーを持たせられる。
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势地
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势地喝
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势地喝了
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势地喝了酒
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势地喝了酒的
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势地喝了酒的奶
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势地喝了酒的奶昔
+[Strings][LEVEL 15] 我被铃铛赶了一下，让我有一个有点强势地喝了酒的奶昔。
+[Strings][LEVEL 15] 俺はドヤ顔でシェイカーを振る。
+[Strings][LEVEL 15] 我一脸粗暴地摇了摇Sha
+[Strings][LEVEL 15] 我一脸粗暴地摇了摇Shak
+[Strings][LEVEL 15] 我一脸粗暴地摇了摇Shake
+[Strings][LEVEL 15] 我一脸粗暴地摇了摇Shaker
+[Strings][LEVEL 15] 我一脸粗暴地摇了摇Shaker。
+[Strings][LEVEL 15] コントじゃないんだからすっぽ抜ける訳ない――
+[Strings][LEVEL 15] 因
+[Strings][LEVEL 15] 因为这不是小品，所以我
+[Strings][LEVEL 15] 因为这不是小品，所以我不
+[Strings][LEVEL 15] 因为这不是小品，所以我不能
+[Strings][LEVEL 15] 因为这不是小品，所以我不能退
+[Strings][LEVEL 15] 因为这不是小品，所以我不能退出
+[Strings][LEVEL 15] 因为这不是小品，所以我不能退出-
+[Strings][LEVEL 15] 因为这不是小品，所以我不能退出--
+[Strings][LEVEL 15] すぽーん！
+[Strings][LEVEL 15] 太
+[Strings][LEVEL 15] 太棒了！
+[Strings][LEVEL 15] がしゃがしゃ、とシェイカーが床を転がる。
+[Strings][LEVEL 15] “
+[Strings][LEVEL 15] “太瘦了！”谢车在地板上滚了下
+[Strings][LEVEL 15] “太瘦了！”谢车在地板上滚了下来
+[Strings][LEVEL 15] “太瘦了！”谢车在地板上滚了下来。
+[Strings][LEVEL 15] ご主人様、コントじゃないんですから。
+[Strings][LEVEL 15] 主人，我不是小品。
+[Strings][LEVEL 15] ……いや、水がね？　い、意外とね？　重量がね？
+[Strings][LEVEL 15] ……不，水呢？没...没想到呢？重量呢？
+[Strings][LEVEL 15] はいはい。これで分かって頂けたかと思います……ま、まぁ、私の失敗は失敗ですけど。
+[Strings][LEVEL 15] 好
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我的
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我的失
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我的失败
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我的失败是
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我的失败是失
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我的失败是失败
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我的失败是失败的
+[Strings][LEVEL 15] 好的好的我想你这样就明白了吧……算了，虽然我的失败是失败的。
+[Strings][LEVEL 15] 一緒に拭こうか、ね。
+[Strings][LEVEL 15] 一
+[Strings][LEVEL 15] 一起擦吧，对吧
+[Strings][LEVEL 15] 一起擦吧，对吧。
+[Strings][LEVEL 15] 俺は[hf]と一緒に仲良く床を掃除することになるのであった。
+[Strings][LEVEL 15] 我会和铃一起好好打扫
+[Strings][LEVEL 15] 我会和铃一起好好打扫地
+[Strings][LEVEL 15] 我会和铃一起好好打扫地板
+[Strings][LEVEL 15] 我会和铃一起好好打扫地板的
+[Strings][LEVEL 15] 我会和铃一起好好打扫地板的。
+[Strings][LEVEL 1] 711,000
+[Strings][LEVEL 15] [hf]との待ち合わせ場所は……
+[Strings][LEVEL 15] 和
+[Strings][LEVEL 15] 和樱井见面的地点是
+[Strings][LEVEL 15] 和樱井见面的地点是…
+[Strings][LEVEL 15] 和樱井见面的地点是……
+[Strings][LEVEL 15] お待たせ、[hf]。
+[Strings][LEVEL 15] 让
+[Strings][LEVEL 15] 让您久等了，樱井。
+[Strings][LEVEL 15] えへへ……ここはちょっと緊張しちゃいますね。オトナな雰囲気です。
+[Strings][LEVEL 15] 嘿
+[Strings][LEVEL 15] 嘿嘿……这里有点紧张啊
+[Strings][LEVEL 15] 嘿嘿……这里有点紧张啊。
+[Strings][LEVEL 15] 嘿嘿……这里有点紧张啊。气
+[Strings][LEVEL 15] 嘿嘿……这里有点紧张啊。气氛
+[Strings][LEVEL 15] 嘿嘿……这里有点紧张啊。气氛很
+[Strings][LEVEL 15] 嘿嘿……这里有点紧张啊。气氛很成
+[Strings][LEVEL 15] 嘿嘿……这里有点紧张啊。气氛很成熟
+[Strings][LEVEL 15] 嘿嘿……这里有点紧张啊。气氛很成熟。
+[Strings][LEVEL 15] 俺は[hf]の傍に座り……二人きりの時間が始まる。
+[Strings][LEVEL 15] 我坐在樱井旁边……我们两个人的时间
+[Strings][LEVEL 15] 我坐在樱井旁边……我们两个人的时间开
+[Strings][LEVEL 15] 我坐在樱井旁边……我们两个人的时间开始
+[Strings][LEVEL 15] 我坐在樱井旁边……我们两个人的时间开始了
+[Strings][LEVEL 15] 我坐在樱井旁边……我们两个人的时间开始了。
+[Strings][LEVEL 15] え、えっと、あの、そーですね……おさけ？　お酒あるかな？　ちゅーもんしましょう！
+[Strings][LEVEL 15] 呃
+[Strings][LEVEL 15] 呃，呃，那个，是啊……
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗？
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗？我
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗？我们
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗？我们一
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗？我们一起
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗？我们一起来
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗？我们一起来吧
+[Strings][LEVEL 15] 呃，呃，那个，是啊……来了吗？有酒吗？我们一起来吧！
+[Strings][LEVEL 14] ??????
+[Strings][LEVEL 14] あそこで、ですか……？　すごく広くて……何だか恥ずかしいです。
+[Strings][LEVEL 14] 在那里，是吗……？太宽了
+[Strings][LEVEL 14] 在那里，是吗……？太宽了…
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……总
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……总觉
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……总觉得
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……总觉得不
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……总觉得不好
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……总觉得不好意
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……总觉得不好意思
+[Strings][LEVEL 14] 在那里，是吗……？太宽了……总觉得不好意思。
+[Strings][LEVEL 14] 桜井千沙登
+[Strings][LEVEL 14] 経験あり
+[Strings][LEVEL 14] 579
+[Strings][LEVEL 14] 191
+[Strings][LEVEL 14] 241
+[Strings][LEVEL 14] 80
+[Strings][LEVEL 14] セックス後背位
+[Strings][LEVEL 14] セックス騎乗位
+[Strings][LEVEL 14] 言葉責め愛撫
+[Strings][LEVEL 14] だいしゅきホールドセックス正常位
+[Strings][LEVEL 14] 抱きつきセックス後背位
+[Strings][LEVEL 14] グラインドセックス騎乗位
+[Strings][LEVEL 14] 太バイブ責め
+[Strings][LEVEL 14] 種付けセックス後背位
+[Strings][LEVEL 14] 50
+[Strings][LEVEL 14] 献身だいしゅきホールドセックス正常位
+[Strings][LEVEL 14] 55
+[Strings][LEVEL 14] 献身グラインドセックス騎乗位
+[Strings][LEVEL 14] 60
+[Strings][LEVEL 14] 【敏感体質】覚醒愛撫
+[Strings][LEVEL 14] 【敏感なクリトリス】覚醒愛撫
+[Strings][LEVEL 14] 【中出し大好き】覚醒セックス正常位
+[Strings][LEVEL 14] 【甘えん坊】覚醒セックス正常位
+[Strings][LEVEL 14] 【いじられ好き】覚醒愛撫
+[Strings][LEVEL 14] セックス後背位 習得条件
+[Strings][LEVEL 14] 淫欲 700
+[Strings][LEVEL 14] ハーレムセックス背面座位
+[Strings][LEVEL 14] ハーレムセックス後背位
+[Strings][LEVEL 14] ハーレム貝合わせ
+[Strings][LEVEL 14] ダブルフェラ
+[Strings][LEVEL 14] 45
+[Strings][LEVEL 14] 被堵住了.
+[Strings][LEVEL 14] 詰られ手コキ
+[Strings][LEVEL 14] 詰られパイズリ
+[Strings][LEVEL 14] 詰られ騎乗位
+[Strings][LEVEL 14] オナホコキ
+[Strings][LEVEL 14] 【ドS女王様】足コキ
+[Strings][LEVEL 14] お仕置きセックス後背位
+[Strings][LEVEL 14] 首絞めセックス正常位
+[Strings][LEVEL 14] パイズリフェラ
+[Strings][LEVEL 14] 玉舐めフェラチオ
+[Strings][LEVEL 14] ディープスロート
+[Strings][LEVEL 14] セルフイラマ
+[Strings][LEVEL 14] 尻舐め
+[Strings][LEVEL 14] 尻舐め手コキオナニー
+[Strings][LEVEL 14] 献身パイズリ
+[Strings][LEVEL 14] 献身玉舐めフェラチオ
+[Strings][LEVEL 14] 【ごっくん大好き】覚醒フェラ
+[Strings][LEVEL 14] 手コキオナニー
+[Strings][LEVEL 14] フェラオナニー
+[Strings][LEVEL 14] 変態ポーズプレイ
+[Strings][LEVEL 14] 太バイブオナニー
+[Strings][LEVEL 14] 実況オナニー
+[Strings][LEVEL 14] ディルドオナニー
+[Strings][LEVEL 14] 【変態の素質】覚醒オナニー
+[Strings][LEVEL 14] 酔いセックス後背位
+[Strings][LEVEL 14] 酔いセックス騎乗位
+[Strings][LEVEL 14] 蒙上眼睛.
+[Strings][LEVEL 14] 告白愛撫
+[Strings][LEVEL 14] 告白セックス正常位
+[Strings][LEVEL 14] 告白セックス後背位
+[Strings][LEVEL 14] 70
+[Strings][LEVEL 14] 告白セックス騎乗位
+[Strings][LEVEL 14] 媚薬愛撫
+[Strings][LEVEL 14] 媚薬バイブ責め
+[Strings][LEVEL 14] 媚薬セックス正常位
+[Strings][LEVEL 14] 目隠し愛撫
+[Strings][LEVEL 14] 目隠しバイブ責め
+[Strings][LEVEL 14] 目隠しセックス正常位
+[Strings][LEVEL 14] 酔いイラマチオ
+[Strings][LEVEL 14] 喝醉了贝布责备
+[Strings][LEVEL 14] 醉性正常位
+[Strings][LEVEL 14] セックス騎乗位 習得条件
+[Strings][LEVEL 14] 淫欲 1200
+[Strings][LEVEL 14] 性骑乘位
+[Strings][LEVEL 14] だいしゅきホールドセックス正常位 習得条件
+[Strings][LEVEL 14] 淫欲 7000
+[Strings][LEVEL 14] M性 2000
+[Strings][LEVEL 14] 奉仕 3000
+[Strings][LEVEL 14] 求职者性别正常位
+[Strings][LEVEL 14] 言葉責め愛撫 習得条件
+[Strings][LEVEL 14] 淫欲 2000
+[Strings][LEVEL 14] M性 1500
+[Strings][LEVEL 14] 85
+[Strings][LEVEL 14] 96
+[Strings][LEVEL 14] 585
+[Strings][LEVEL 14] 精神　-9
+[Strings][LEVEL 14] 官能　10
+[Strings][LEVEL 14] 淫欲　6
+[Strings][LEVEL 14] M性　1
+[Strings][LEVEL 14] 87
+[Strings][LEVEL 14] 591
+[Strings][LEVEL 14] 一百九十一
+[Strings][LEVEL 14] 在……上面
+[Strings][LEVEL 14] 关闭
+[Strings][LEVEL 14] 讯息
